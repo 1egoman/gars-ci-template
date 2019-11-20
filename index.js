@@ -1,5 +1,5 @@
 function removeDupes(array) {
-  return [...new Set(array)];
+  return 'not an array';
 }
 
 module.exports = removeDupes;
